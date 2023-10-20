@@ -1,3 +1,11 @@
+<!--
+ * @Author: OCEAN.GZY
+ * @Date: 2023-10-20 17:47:51
+ * @LastEditors: OCEAN.GZY
+ * @LastEditTime: 2023-10-20 17:56:38
+ * @FilePath: /ocean-mindmap/mind-map-bak/web/src/pages/Workbenche/Index.vue
+ * @Description: 注释信息
+-->
 <template>
     <div class="workbencheContainer">
         <div class="workbencheContent">
@@ -10,7 +18,7 @@
 export default {
     name: 'Workbenche',
     created () {
-        document.title = '思绪思维导图'
+        document.title = 'ocean-mindmap'
     }
 }
 </script>

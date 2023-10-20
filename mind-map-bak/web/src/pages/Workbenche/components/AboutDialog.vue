@@ -6,13 +6,13 @@
     width="480px"
     @close="onClose"
   >
-    <div class="aboutBox">
+    <!-- <div class="aboutBox">
       <img src="../../../assets/img/icon.png" alt="" />
-      <h2>思绪思维导图</h2>
+      <h2>ocean-mindmap</h2>
       <p>版本：{{ version }}</p>
       <p>
         官网：
-        <span @click="open('homepage')">思绪思维导图</span>
+        <span @click="open('homepage')">ocean-mindmap</span>
       </p>
       <p>
         获取源码：
@@ -23,7 +23,7 @@
         <span @click="open('baiduNet')">百度云</span>
         <span @click="open('releases')">releases</span>
       </p>
-    </div>
+    </div> -->
   </el-dialog>
 </template>
 
